@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Project Overview
 This is the final project of Group 1 from class AI1903 for the CPV301 and AIL303m subjects, advised by lecturer Luong Trung Kien.
 
